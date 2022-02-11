@@ -1,5 +1,6 @@
 ---
 description: hello
+coverY: 0
 ---
 
 # Page 5
@@ -28,7 +29,7 @@ HINTS can be here
 >
 > hi
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Lorem** _ipsum_ ~~dolor~~ `sit` [amet](../), <mark style="color:red;">consectetur</mark> <mark style="background-color:orange;">adipiscing</mark> elit, s$$f(x) = x * e^{2 pi i \xi x}$$ed do ![](../../../.gitbook/assets/image.png)eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 There are also a couple embedded widgets like youtube videos&#x20;
 
