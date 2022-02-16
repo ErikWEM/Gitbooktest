@@ -1,24 +1,34 @@
 # Table of contents
 
-* [Testing test](README.md)
-  * [Page 4](testing-test/page-4/README.md)
-    * [Page 5](testing-test/page-4/page-5/README.md)
-      * [Page 6](testing-test/page-4/page-5/page-6/README.md)
-        * [Page 7](testing-test/page-4/page-5/page-6/page-7/README.md)
-          * [Page 8](testing-test/page-4/page-5/page-6/page-7/page-8/README.md)
-            * [Page 9](testing-test/page-4/page-5/page-6/page-7/page-8/page-9/README.md)
-              * [text](testing-test/page-4/page-5/page-6/page-7/page-8/page-9/text.md)
-              * [Page 11](testing-test/page-4/page-5/page-6/page-7/page-8/page-9/page-11.md)
-              * [Page 10](testing-test/page-4/page-5/page-6/page-7/page-8/page-9/page-10/README.md)
-                * [Page 1](testing-test/page-4/page-5/page-6/page-7/page-8/page-9/page-10/page-1.md)
-      * [Page 12](testing-test/page-4/page-5/page-12.md)
-  * [Page 13](testing-test/page-13.md)
-* [test page 2](test-page-2.md)
+* [Welcome!](README.md)
 
-## Group 1
+## Introducing WEM
 
-* [Page 2](group-1/page-2.md)
+* [Introducing WEM](introducing-wem/introducing-wem.md)
 
-## Group 2
+## Getting started
 
-* [Page 3](group-2/page-3.md)
+* [Getting started](getting-started/getting-started.md)
+
+## Resources
+
+* [Wem Modeler](https://app.gitbook.com/s/4ZYpaBVzuQ8bNeKqBwm2/)
+* [WEM Reference](https://app.gitbook.com/s/tCMelIVEcplroli3TMSG/)
+
+## Public Documentation
+
+* [Tutorials](public-documentation/tutorials/README.md)
+  * [First Application](public-documentation/tutorials/first-application/README.md)
+    * [Basic Application Creation](public-documentation/tutorials/first-application/basic-application-creation.md)
+    * [Expand the basic application](public-documentation/tutorials/first-application/expand-the-basic-application.md)
+    * [Publish the Application](public-documentation/tutorials/first-application/publish-the-application.md)
+  * [Expand First Application](public-documentation/tutorials/expand-first-application.md)
+  * [Publish Application](public-documentation/tutorials/publish-application.md)
+* [My WEM portal](public-documentation/my-wem-portal.md)
+
+## Tips and Tricks
+
+* [Working with data](tips-and-tricks/working-with-data/README.md)
+  * [The Power of the Calculated Field](tips-and-tricks/working-with-data/the-power-of-the-calculated-field.md)
+  * [Consuming your OData source with Excel 2016](tips-and-tricks/working-with-data/consuming-your-odata-source-with-excel-2016.md)
+  * [Expose your data via OData](tips-and-tricks/working-with-data/expose-your-data-via-odata.md)
