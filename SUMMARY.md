@@ -4,7 +4,7 @@
 
 ## Introducing WEM
 
-* [Introducing WEM](introducing-wem/introducing-wem.md)
+* [🇺🇦 Introducing WEM](introducing-wem/introducing-wem.md)
 
 ## Getting started
 
