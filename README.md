@@ -5,6 +5,8 @@ coverY: 0
 
 # Welcome!
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Modeler-Header.png">Modeler-Header.png</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
 ## Welcome aboard!
 
 The **WEM Platform** has been designed to hide the complexity of software development and deployment, enabling subject matter experts to visually create applications without need for specific programming skills. At WEM we call this Rapid Application Modeling.
