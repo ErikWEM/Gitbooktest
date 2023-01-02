@@ -10,7 +10,7 @@ With WEM, you can both consume external OData sources and expose the database of
 
 ### Example application
 
-For this article we created a simple WEM application that stores product information about laptops, tablets and smartphones. This application is accessible via [https://odata-demo.live.wem.io](https://odata-demo.live.wem.io).
+For this article we created a simple WEM application that stores product information about laptops, tablets and smartphones. This application is accessible via [https://odata-demo.live.wem.io](https://odata-demo.live.wem.io/).
 
 ### Enabling OData
 

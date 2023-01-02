@@ -2,7 +2,7 @@
 
 ### Start modelling - My WEM projects
 
-Go to [`WEM.IO`](https://wem.io) and login. Click on `My project` from the WEM dashboard to start the WEM modeler.
+Go to [`WEM.IO`](https://wem.io/) and login. Click on `My project` from the WEM dashboard to start the WEM modeler.
 
 > If you don't have a WEM account yet, you can create one here: [Create your account.](broken-reference)
 
