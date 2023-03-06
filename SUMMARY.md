@@ -23,9 +23,9 @@
     * [Expand the basic application](public-documentation/tutorials/first-application/expand-the-basic-application.md)
     * [Publish the Application](public-documentation/tutorials/first-application/publish-the-application.md)
   * [Expand First Application](public-documentation/tutorials/expand-first-application.md)
-  * [Publish Application](public-documentation/tutorials/publish-application.md)
-* [My WEM portal](public-documentation/my-wem-portal.md)
-* [Pagggdsae 1](public-documentation/pagggdsae-1.md)
+* [Pagdsagdge 1](public-documentation/pagdsagdge-1.md)
+* [My WEM portal](public-documentation/my-wem-portal/README.md)
+  * [Pagggdsae 1](public-documentation/my-wem-portal/pagggdsae-1.md)
 
 ## Tips and Tricks
 
